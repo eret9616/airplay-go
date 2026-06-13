@@ -1,0 +1,7 @@
+*.pcap
+*.apk
+*.zip
+out/
+out2/
+jadx/
+smali_out/
